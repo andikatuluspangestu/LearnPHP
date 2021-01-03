@@ -13,7 +13,7 @@
 		
 		echo 90 * 2;	 // Perkalian
 		echo 18 / 4;	 // Pembagian
-		echo 24 % 2;     // Modulus atau Hasil Bagi
+		echo 24 % 2;     // Modulus
 
 	?>
 
