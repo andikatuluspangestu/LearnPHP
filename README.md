@@ -8,7 +8,7 @@ Repository ini hanyalah catatan saya selama belajar PHP Programming.
 - Bahasa Dalam Repository ini : Bahasa Indonesia
 - Situs Resmi : [Web](https://www.javascript.com/ "Pergi ke Official Page")
 
-### 📝 Tools
+### 🎒 Tools
 - XAMPP [Download](https://www.apachefriends.org/) 
 - Installasi PHP, Apache2, MySQL [PetaniKode](https://www.petanikode.com/pemrograman-web-di-linux/)
 
