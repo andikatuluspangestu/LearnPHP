@@ -15,6 +15,8 @@ Repository ini hanyalah catatan saya selama belajar PHP Programming.
 ### ✔️ Tasks Belajar 
 
 - [x] Hello World
+- [x] PHP Case
+- [x] Menggunakan PHP Server
 - [x] Operator Aritmatika
 - [x] Latihan String dan Aritmatika
 - [ ] Tipe Data
@@ -24,6 +26,7 @@ Repository ini hanyalah catatan saya selama belajar PHP Programming.
 - [ ] Percabangan If
 - [ ] Percabangan else dan elseif
 - [ ] Percabangan switch case
+- [x] Latihan Membuat Router PHP
 - [ ] Percabangan Ternary
 - [ ] Array
 - [ ] Array Associative
