@@ -19,9 +19,9 @@ Repository ini hanyalah catatan saya selama belajar PHP Programming.
 - [x] Menggunakan PHP Server
 - [x] Operator Aritmatika
 - [x] Latihan String dan Aritmatika
-- [ ] Tipe Data
-- [ ] Variable
-- [ ] Update Nilai Variable
+- [x] Tipe Data
+- [x] Variable
+- [x] Update Nilai Variable
 - [ ] String Concatenation
 - [ ] Percabangan If
 - [ ] Percabangan else dan elseif
