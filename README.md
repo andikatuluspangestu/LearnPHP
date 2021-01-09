@@ -52,7 +52,6 @@ Jika mengalami kesulitan atau kurang memahami Dokumentasi atau untuk error codin
 - My Parents
 - My Family
 - Nafatul Adistianingrum
-- Gun Gun Febrianza to Reference
 - All Friends
 - All Site Reference
 - All Youtube Channel Reference
