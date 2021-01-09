@@ -22,7 +22,7 @@ Repository ini hanyalah catatan saya selama belajar PHP Programming.
 - [x] Tipe Data
 - [x] Variable
 - [x] Update Nilai Variable
-- [ ] String Concatenation
+- [x] String Concatenation
 - [ ] Percabangan If
 - [ ] Percabangan else dan elseif
 - [ ] Percabangan switch case
