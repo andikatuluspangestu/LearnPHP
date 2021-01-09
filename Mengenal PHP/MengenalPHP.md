@@ -7,10 +7,7 @@ PHP dapat ditulis dengan dua cara yaitu :
 * Kode PHP ditulis di dalam kode HTML ( recommended )
 * Kode HTML ditulis di dalam kode PHP
 
-\
-\
-\
-\
+<br>
 
 ### Sintaks PHP
 Kode program PHP diawali dengan tag pembuka `<?php` dan ditutup dengan tag penutup `?>`
@@ -28,10 +25,7 @@ Contoh :
 
 Dalam PHP, kata kunci (misalnya if, else, while, echo, dll), kelas, function, dan function yang ditetapkan oleh pengguna itu peka terhadap besar kecilnya huruf ( Not Case-sensitive ), namun untuk variable berlaku sifat peka terhadap besar kecilnya huruf ( Case-Sensitive ).
 
-\
-\
-\
-\
+<br>
 
 ### Menampilkan Output Text atau Hello World
 Kita bisa menggunakan beberapa cara untuk menampilkan teks ke layar, salah satunya menggunakan keyword "echo"
@@ -52,10 +46,8 @@ Fungsi print() akan selalu mengembalikan nilai 1 saat dieksekusi, sedangkan echo
 
 > Fungsi `printf()` adalah fungsi untuk memformat teks atau string. Fungsi ini akan mengembalikan panjang dari teks saat dieksekusi.
 
-\
-\
-\
-\
+
+<br>
 
 ### PHP Server 
 Kita juga bisa menggunakan server bawaan PHP tanpa perlu menggunakan aplikasi pihak ketiga seperti `XAMPP`. Untuk menggunakan PHP Server ialah sebagai berikut.
