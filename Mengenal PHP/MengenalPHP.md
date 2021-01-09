@@ -23,8 +23,6 @@ Contoh :
 
 ```
 
-Dalam PHP, kata kunci (misalnya if, else, while, echo, dll), kelas, function, dan function yang ditetapkan oleh pengguna itu peka terhadap besar kecilnya huruf ( Not Case-sensitive ), namun untuk variable berlaku sifat peka terhadap besar kecilnya huruf ( Case-Sensitive ).
-
 <br>
 
 ### Menampilkan Output Text atau Hello World

@@ -27,18 +27,6 @@
 		echo "<h3> Ini Contoh Kode HTML di Dalam Kode PHP</h3>"; 
 	?>
 
-	<!-- =================================================================================== -->
-
-	<?php 
-
-	  // Case-Sensitive
-	  $warna = "Merah";
-
-	  // Menampilkan Nilai Variable Warna
-	  echo $warna; // Benar
-	  echo $Warna; // Salah dan akan Error
-
-	?>
 
 </body>
 </html>
