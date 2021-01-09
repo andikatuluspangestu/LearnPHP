@@ -29,9 +29,24 @@ Kita bisa menggunakan beberapa cara untuk menampilkan teks ke layar, salah satun
 Banyak fungsi yang digunakan untuk menampilkan hasil atau output dari program kita seperti :
 
 * var_dump();
-* `print();` Fungsi `print()` sama seperti fungsi `echo()`. Dia juga digunakan untuk menampilkan teks ke layar. Fungsi `print()` juga bisa digunakan tanpa tanda kurung.
 
-> Fungsi print() akan selalu mengembalikan nilai 1 saat dieksekusi, sedangkan echo() tidak mengembalikan apa-apa dan fungsi print() hanya boleh diberikan satu parameter saja, sedangkan echo() boleh lebih dari satu.
+> Fungsi `print()` sama seperti fungsi `echo()`. Dia juga digunakan untuk menampilkan teks ke layar. Fungsi `print()` juga bisa digunakan tanpa tanda kurung. 
+\
+Fungsi print() akan selalu mengembalikan nilai 1 saat dieksekusi, sedangkan echo() tidak mengembalikan apa-apa dan fungsi print() hanya boleh diberikan satu parameter saja, sedangkan echo() boleh lebih dari satu.
 
 * echo();
 * print_r();
+
+### PHP Server 
+
+   - Install PHP
+   - Buat Folder Untuk Dokumen Website
+   - Masuk ke Folderyang telah dibuat menggunakan Terminal
+   - Ketik Perintah ini diterminal "php -S localhost:8000"
+   - Masuk ke Browser lalu buka URL "localhost:8000"
+
+
+Jika mengalami error 404 Notfound, artinya kamu belum memiliki file index.php di folder tersebut
+
+Lokasi dokumen juga dapat kita tentukan secara spesifik dengan arugmen -t.
+Contohnya : php -S localhost:8000 -t /var/www/html/proyek-web/ 
