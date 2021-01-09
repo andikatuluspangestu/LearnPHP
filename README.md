@@ -20,7 +20,7 @@ Repository ini hanyalah catatan saya selama belajar PHP Programming.
 - [x] Menggunakan PHP Server
 - [x] Operator Aritmatika
 - [x] Latihan String dan Aritmatika
-- [] Tipe Data **is being revised**
+- [ ] Tipe Data **is being revised**
 - [x] Variable
 - [x] Update Nilai Variable
 - [x] String Concatenation
