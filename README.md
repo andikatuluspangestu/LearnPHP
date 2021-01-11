@@ -27,7 +27,6 @@ Repository ini hanyalah catatan saya selama belajar PHP Programming.
 - [ ] Percabangan If
 - [ ] Percabangan else dan elseif
 - [ ] Percabangan switch case
-- [x] Latihan Membuat Router PHP
 - [ ] Percabangan Ternary
 - [ ] Array
 - [ ] Array Associative
