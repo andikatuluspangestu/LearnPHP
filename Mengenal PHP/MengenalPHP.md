@@ -1,7 +1,8 @@
 
 ### Mengenal PHP 
 
-Jika dengan menggunakan Pure HTML, maka kita akan memiliki batasan untuk mengontrol apa yang kita tampilkan, namun dengan menggunakan php kita bisa menyesuaikan tampilan sesuai dengan kondisi yang berlaku.
+Jika dengan menggunakan Pure HTML, maka kita akan memiliki batasan untuk mengontrol apa yang kita tampilkan, namun dengan menggunakan PHP ( Hypertext Preprocessor ) kita bisa menyesuaikan tampilan sesuai dengan kondisi yang berlaku.
+PHP dibuat oleh Rasmus Ledorf pada tahun 1995, PHP merupakan bahasa pemrograman Free and Open source [Github](https://github.com/php/php-src)
 
 PHP dapat ditulis dengan dua cara yaitu :
 * Kode PHP ditulis di dalam kode HTML ( recommended )
@@ -17,7 +18,7 @@ Contoh :
 	
    <?php
 
-   	 // Kode Program
+   	 // Kode Program disini
 
    ?>
 
